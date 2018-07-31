@@ -19,7 +19,7 @@ for the realtime example to work you have to create an instance of the SIRI clie
 
 * [MoT GTFS documentation](https://www.gov.il/he/Departments/General/gtfs_general_transit_feed_specifications)
 * [GTFS Specification](https://developers.google.com/transit/gtfs/reference/)
-* [MoT GTFS FTP Server](ftp://gtfs.mot.gov.il/)
+* MoT GTFS FTP Server - ftp://gtfs.mot.gov.il/
 
 ### Realtime data
 
